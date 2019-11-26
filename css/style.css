@@ -31,4 +31,19 @@
   text-decoration: none;
   color: #fff;
 }
+#sidebar {
+  position: fixed;
+  background-color: red;
+  right: 0%;
+  height: 100%;
+  width: 20%;
+}
+
+#sidebar-container {
+  position: fixed;
+  background-color: red;
+  right: 0%;
+  height: 100%;
+  width: 20%;
+}
 
