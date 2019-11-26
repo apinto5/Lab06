@@ -12,4 +12,23 @@
   position: relative;
 }
 
+#navbar-container ul {
+  float: left;
+  display: block;
+  position: relative;
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  right: 50%;
+} 
+
+#navbar-container ul li {
+  float: left;
+  padding: 10px 20px;
+}
+
+#navbar-container ul li a {
+  text-decoration: none;
+  color: #fff;
+}
 
